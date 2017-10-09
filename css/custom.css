@@ -1,6 +1,13 @@
 // global css
 
+.spotify{
+    width: 300px;
+    height: 389px; 
+}
 
+.container{
+    color: red;
+}
 
 
 // Extra small devices (portrait phones, less than 576px)
