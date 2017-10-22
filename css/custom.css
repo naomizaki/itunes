@@ -27,6 +27,8 @@
     width: 225px;
     text-align: center;
     background-color: #E92C3C;
+    margin-top: 10px;
+    color: white;
 }
 
 
@@ -44,8 +46,13 @@
     margin-left: 95px;
     background-color:#E92C3C !important;
     border-color: #E92C3C !important;
+    margin-top: 10px;
+    
 }
 
+.py-5{
+background-color: black;
+}
 
 
 
