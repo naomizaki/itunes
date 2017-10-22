@@ -27,7 +27,7 @@
     width: 225px;
     text-align: center;
     background-color: #E92C3C;
-    margin-top: 10px;
+    margin-top: 10px !important;
     color: white;
 }
 
@@ -46,7 +46,7 @@
     margin-left: 95px;
     background-color:#E92C3C !important;
     border-color: #E92C3C !important;
-    margin-top: 10px;
+    margin-top: 10px !important;
     
 }
 
